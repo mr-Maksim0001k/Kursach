@@ -1,0 +1,43 @@
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.exe.config
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.OP1_Labs_Form.resources
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.Properties.Resources.resources
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab0_UC.resources
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.GenerateResource.cache
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab10_UC.resources
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab11_UC.resources
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab12_UC.resources
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab13_UC.resources
+G:\S\_CS\_КПИ\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csprojAssemblyReference.cache
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.exe.config
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.AssemblyReference.cache
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.SuggestedBindingRedirects.cache
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.OP1_Labs_Form.resources
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.Properties.Resources.resources
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab0_UC.resources
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab10_UC.resources
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab11_UC.resources
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab12_UC.resources
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab13_UC.resources
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.GenerateResource.cache
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.CoreCompileInputs.cache
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\- ACTIVITY\_КПИ 2019\С4 - 01 ОП-2\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.exe.config
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\bin\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.AssemblyReference.cache
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.SuggestedBindingRedirects.cache
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.OP1_Labs_Form.resources
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.Properties.Resources.resources
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.GenerateResource.cache
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP2 - CSharp WinForm - Labs.csproj.CoreCompileInputs.cache
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Start0_UC.resources
+G:\S\- ACTIVITY\_ДУТ 2022\4 СЕМЕСТР\C# Курсова\- РЕЗУЛЬТАТ\OP2 - CSharp WinForm - Labs - Semester 2\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Start10_UC.resources

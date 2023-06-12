@@ -1,0 +1,84 @@
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.exe.config
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.Properties.Resources.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.csproj.GenerateResource.cache
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.OP1_Labs_Form.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab1_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab2_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab0_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab3_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_01_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_02_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab5_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_01_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_02_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab7_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab8_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab9_UC.resources
+G:\S\_CS\_КПИ\C1 - 01 ОП-1\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.csprojAssemblyReference.cache
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.exe.config
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.OP1_Labs_Form.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.Properties.Resources.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab0_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab1_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab2_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab3_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_01_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_02_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab5_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_01_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_02_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab7_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab8_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab9_UC.resources
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.csproj.GenerateResource.cache
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\С1 - 07 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.csprojAssemblyReference.cache
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\bin\Debug\OP1 - CSharp WinForm - Labs.exe.config
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\bin\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\bin\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1 - CSharp WinForm - Labs.csprojAssemblyReference.cache
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.OP1_Labs_Form.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.Properties.Resources.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab0_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab1_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab2_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab3_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_01_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_02_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab5_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_01_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_02_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab7_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab8_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab9_UC.resources
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1 - CSharp WinForm - Labs.csproj.GenerateResource.cache
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С1 - 08 ООП\- - РЕЗУЛЬТАТ - MY SOLUTION\OP1 - CSharp WinForm - Labs_OOP\obj\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.exe.config
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\bin\Debug\OP1 - CSharp WinForm - Labs.pdb
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.csprojAssemblyReference.cache
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.OP1_Labs_Form.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.Properties.Resources.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab0_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab1_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab2_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab3_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_01_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab4_02_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab5_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_01_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab6_02_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab7_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab8_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1___CSharp_WinForm___Labs.UserControls.Lab9_UC.resources
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.csproj.GenerateResource.cache
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.exe
+G:\S\_CS\_КПИ\С3 - 01 ОП-1\- - РЕЗУЛЬТАТ - ЛАБ РОБОТИ - MY\OP1 - CSharp WinForm - Labs\obj\Debug\OP1 - CSharp WinForm - Labs.pdb
